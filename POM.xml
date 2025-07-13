@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <!-- Project coordinates -->
+    <groupId>com.example</groupId> <!-- Replace with your group ID -->
+    <artifactId>my-project</artifactId> <!-- Replace with your artifact ID -->
+    <version>1.0-SNAPSHOT</version> <!-- Version of your project -->
+    <packaging>jar</packaging> <!-- Type of artifact, e.g., jar, war -->
+
+    <dependencies>
+        <!-- Add your project dependencies here -->
+        <!-- Example dependency:
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+            <scope>test</scope>
+        </dependency>
+        -->
+    </dependencies>
+</project>
